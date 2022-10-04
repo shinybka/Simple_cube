@@ -1,0 +1,2 @@
+gcc example.c -o example -lm
+if you are going to compile a C program with math.h library in LINUX using GCC or G++ you will have to use –lm option after the compile command.
